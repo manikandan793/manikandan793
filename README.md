@@ -193,14 +193,14 @@ An interactive hospital management platform combining disease prediction (ear, k
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[Repository →](https://github.com/manikandan793/medtech-hospital-management)
+[Repository →](https://github.com/manikandan793/MED_TECH)
 
 </details>
 
 ---
 <blockquote>
 
-**🏛️ Stock and Memo Management System** · *Ongoing · Team of 6*
+**🏛️ Stock and Memo Management System** · * Jan 2025 · Team of 6*
 
 Built in direct collaboration with a **State Government** for fixed-price retail shops — inventory monitoring, automated reorder suggestions, low-stock alerts, and a memo management module handling public requests, memo issuance, query responses, and penalty payments via a secure payment gateway. Access control and feature visibility customised by officer hierarchy.
 
@@ -226,7 +226,7 @@ Built in direct collaboration with a **State Government** for fixed-price retail
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-[Repository →](https://github.com/manikandan793/terrain-recognition-system)
+[Repository →](https://github.com/manikandan793/Terra-Tech-Titans)
 
 </td>
 <td width="50%" valign="top">
@@ -240,7 +240,7 @@ CNN-based model identifying drowsiness indicators — eye closure and yawning �
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-[Repository →](https://github.com/manikandan793/driver-drowsiness-detection)
+[Repository →](https://github.com/manikandan793/driver-drowsyness-detection)
 
 </td>
 </tr>
@@ -255,7 +255,7 @@ CNN-based model identifying drowsiness indicators — eye closure and yawning �
 **1. ViT-RES: Attention Exploitation for Breast Cancer Image Classification**
 S. Manikandan, A. Sreeharish, J. Madhava Prasath, K. Sudharsan
 *Proceedings of the 11th International Conference on Mathematics and Computing (ICMC 2025), IIT Bhilai*
-![Springer](https://img.shields.io/badge/Springer-Published-2ea44f?style=flat-square) `Jan 2025`
+[![Springer](https://img.shields.io/badge/Springer-Published-2ea44f?style=flat-square)](https://link.springer.com/chapter/10.1007/978-981-96-6351-4_14)`Jan 2025`
 
 **2. A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration, and Beyond**
 S. Manikandan, S. Bansal, A. Sreeharish, J. Madhava Prasath, S. Madisetty, M. Z. Rehman, C. S. Raghaw, G. Duggal, N. Kumar
